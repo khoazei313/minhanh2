@@ -1,1 +1,1 @@
-“Đây là file test.txt thuộc 2 tài khoản 1 và 2”
+Đây là file test.txt
